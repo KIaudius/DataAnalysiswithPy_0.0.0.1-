@@ -1,0 +1,12 @@
+Regex
+Pandas
+Matplotlib
+Numpy
+Seaborn
+Datetime
+Emoji
+Wordcloud
+Heatmapz
+NLTK
+Plotly
+PyQt5
